@@ -2,7 +2,7 @@
 
 This project contains interview coding challenges.
 
-## Tasks To Complete
+## Tasks To Complete :
 
 + [x] 0. **Island Perimeter**<br/>[0-island_perimeter.py](0-island_perimeter.py) contains a module with a function having the prototype `function def island_perimeter(grid):`, which returns the perimeter of the island described in `grid`, with the following requirements:
   + `grid` is a list of list of integers:
